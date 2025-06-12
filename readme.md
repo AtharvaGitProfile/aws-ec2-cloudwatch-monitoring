@@ -37,6 +37,8 @@ This Terraform project provisions an EC2 instance with IAM role and CloudWatch m
 - Perform a CPU stress test on the EC2 instance to trigger alarms.
 - Monitor the configured email subscription for SNS alarm notifications.
 
+![alttext](https://github.com/AtharvaGitProfile/aws-ec2-cloudwatch-monitoring/blob/57e040cf156e48b6d99e16eb65590e1884ee9d0e/Alarm%20Notification.png)
+
 ## Notes
 
 - Ensured that the IAM user had permissions to manage IAM roles, EC2, CloudWatch, and SNS.
