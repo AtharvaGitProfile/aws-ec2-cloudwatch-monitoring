@@ -25,6 +25,7 @@ This Terraform project provisions an EC2 instance with IAM role and CloudWatch m
 4. **SNS Topic and Subscription**
    - Creates an SNS topic for alarm notifications.
    - Subscribes an email endpoint to the SNS topic for alerts.
+![alttext](https://github.com/AtharvaGitProfile/aws-ec2-cloudwatch-monitoring/blob/8d02f2c2a522f4af58b7625cc4b6476389a2bcf6/SNS%20Topic%20Subscription.png)
 
 ## Usage
 
