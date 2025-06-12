@@ -14,6 +14,7 @@ This Terraform project provisions an EC2 instance with IAM role and CloudWatch m
 2. **EC2 Instance**
    - Launches an EC2 instance with specified AMI, instance type, and key pair.
    - Associates the IAM instance profile for CloudWatch access.
+![alttext](https://github.com/AtharvaGitProfile/aws-ec2-cloudwatch-monitoring/blob/2a9d9b6f5b7382ab4f079f879ca2e08720f44c47/instance.png)
 
 3. **CloudWatch Metric Alarm**
    - Sets a CPU utilization alarm that triggers when CPU usage exceeds 80%.
