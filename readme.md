@@ -19,7 +19,7 @@ This Terraform project provisions an EC2 instance with IAM role and CloudWatch m
 3. **CloudWatch Metric Alarm**
    - Sets a CPU utilization alarm that triggers when CPU usage exceeds 80%.
    - Alarm sends notifications via SNS.
-![alttext](https://github.com/AtharvaGitProfile/aws-ec2-cloudwatch-monitoring/blob/da3275d40c286b0a0f434a78d03b5f96465e3d5c/Instance%20Profile.png)
+![alttextt](https://github.com/AtharvaGitProfile/aws-ec2-cloudwatch-monitoring/blob/23e0c57941329b07930b41c6cd257c6bdf33bdb5/Alarm.png)
 
 
 4. **SNS Topic and Subscription**
