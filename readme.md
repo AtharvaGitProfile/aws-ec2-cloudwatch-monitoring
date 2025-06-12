@@ -9,6 +9,7 @@ This Terraform project provisions an EC2 instance with IAM role and CloudWatch m
 1. **IAM Role and Instance Profile**
    - Creates an IAM role with policies allowing EC2 to publish metrics to CloudWatch.
    - Creates an instance profile attached to the EC2 instance.
+![Description](IAM Role HCL.png)
 
 2. **EC2 Instance**
    - Launches an EC2 instance with specified AMI, instance type, and key pair.
